@@ -9,7 +9,6 @@
 <!-- Replace the link below with your actual screenshot URL -->
 ![Power BI Dashboard](https://github.com/igpriyanshunegi/-customer-trends-data-analysis/blob/main/Dashboard.png)
 
-> 💡 *To add your screenshot: Upload the image to GitHub Issues or Imgur, copy the URL, and paste it above.*
 
 ---
 
@@ -21,7 +20,7 @@ customer-shopping-behavior-analysis/
 ├── 📓 Customer_shopping_behaviour_analysis.ipynb   # Main analysis notebook
 ├── 📄 customer_shopping_behavior.csv               # Raw dataset (3,900 records)
 ├── 📊 customer_behavior_dashboard.pbix             # Power BI dashboard file
-├── Screenshot of dashboard
+├── 💡 Screenshot of dashboard
 └── 📝 README.md
 ```
 
@@ -117,7 +116,7 @@ pip install pandas jupyter
 
 ### Run the Notebook
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/igpriyanshunegi/customer-trends-data-analysis.git
 cd customer-shopping-behavior-analysis
 jupyter notebook Customer_shopping_behaviour_analysis.ipynb
 ```

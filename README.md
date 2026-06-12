@@ -6,6 +6,7 @@
 
 ## 📊 Dashboard Preview
 
+
 <!-- Replace the link below with your actual screenshot URL -->
 ![Power BI Dashboard](https://github.com/igpriyanshunegi/-customer-trends-data-analysis/blob/main/Dashboard.png)
 
